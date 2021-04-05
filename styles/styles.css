@@ -96,6 +96,7 @@ header {
     border: solid 2px whitesmoke;
     background-color: black;
     color: white;
+    outline: none;
         
 }
 
